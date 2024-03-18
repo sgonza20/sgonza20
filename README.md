@@ -62,7 +62,7 @@ I am a Cloud Security Engineer <img src="https://media0.giphy.com/media/v1.Y2lkP
 ---
 
 
-### :laugh: Joke of the Day :
+### :laughing: Joke of the Day :
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
