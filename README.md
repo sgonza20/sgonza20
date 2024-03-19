@@ -26,7 +26,7 @@ I am a Cloud Security Engineer <img src="https://media0.giphy.com/media/v1.Y2lkP
 
 - :zap: In my free time, I write blogs about my career and mentor others on career advice for Cloud Computing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sgonza20-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-lozano-437b041a5/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sgonza20-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-lozano-437b041a5/)
 
 ---
 
