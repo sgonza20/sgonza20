@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Cloud Security Engineer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NxMDk1ZHg1dmJjbjVnYndpNjJtMHR5NjNtanFjOG0zeDcyMGV6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTk9ZZvJbApGt3vy3C/giphy.gif" width="30">
+I'm a Cloud Security Engineer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NxMDk1ZHg1dmJjbjVnYndpNjJtMHR5NjNtanFjOG0zeDcyMGV6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTk9ZZvJbApGt3vy3C/giphy.gif" width="30">
 
 - :cloud: I’m a full time Cloud Security Enginner, mostly in Amazon Web Services.
 
