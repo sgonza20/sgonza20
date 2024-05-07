@@ -57,7 +57,6 @@ I'm a Cloud Security Engineer <img src="https://media0.giphy.com/media/v1.Y2lkPT
 
 <!-- BLOG-POST-LIST:START -->
 - [My Cloud Journey: How I Began My Career at 22](https://medium.com/@sgonza20/my-cloud-journey-how-i-began-my-career-at-22-fb4f59365362?source=rss-27c2569d1018------2)
-
 <!-- BLOG-POST-LIST:END -->
 
 ---
